@@ -6,13 +6,13 @@ title: "CV"
 author: Eric Daniel Youngerman
 
 jobtitle: "Research Support Specialist, Sustainable Cropping Systems Lab"
-address: "Cornell University · 515 Bradfield Hall · Ithaca NY, 14850"
+address: "Cornell University · 515 Bradfield Hall · Ithaca, NY 14850"
 fontawesome: yes
 email: ey239@cornell.edu
 # github: svmiller
 # twitter: stevenvmiller
-#osf: "Enter 5 digit osf string here"
-phone: "781 759 9629"
+# osf: "Enter 5 digit osf string here"
+phone: "781-759-9629"
 web: blogs.cornell.edu/scslab
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
@@ -25,84 +25,88 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 ---
+# Education
+
+*Cornell University*, PhD \hfill Expected 2030  
+
+*Harvard University Extension School*, ALB \hfill  
+
 
 # Employment
 
-*Cornell University, Sustainable Cropping Systems Lab*
+*Cornell University, Sustainable Cropping Systems Lab*  
+Research Support Specialist \hfill 2021–present  
 
-Research support specialist \hfill 2021-present
+*Snowplace Farm*  
+Farm Assistant \hfill 2018–2021  
 
-*Snowplace Farm*
+*University of Utah, Longino Lab*  
+Graduate Research Assistant \hfill 2014–2015  
 
-Farm assistant \hfill 2018-2021
+*University of Toronto, Frederickson Lab*  
+Graduate Research Assistant \hfill 2012–2014  
 
-*University of Utah, Longino Lab*
+*Harvard University, Museum of Comparative Zoology, Ant Collection*  
+Collections Assistant \hfill 2012  
 
-Graduate research assistant \hfill 2014-2015
+*New Guinea Binatang Research Center, Madang, Papua New Guinea*  
+Research Assistant \hfill 2011–2012  
 
-*University of Toronto, Frederickson Lab*
+*Harvard University, Lauder Laboratory*  
+Research Assistant \hfill 2010–2011  
 
-Graduate research assistant \hfill 2012-2014
-
-*Harvard University, Museum of Comparative Zoology, Ant Collection*
-
-Collections assistant \hfill 2012
-
-*New Guinea Binatang Research Center, Madang, Papua New Guinea       *
-
-Research assistant \hfill 2011-2012
-
-*Harvard University, Lauder Laboratory*
-
-Research assistant \hfill 2010-2011
-
-*Harvard University, Arnold Arboretum*
-
-Curatorial assistant \hfill 2007-2009
-
-# Education
-*Cornell University*, PhD \hfill Expected 2030
-
-*Harvard University Extension School*, ALB \hfill 
+*Harvard University, Arnold Arboretum*  
+Curatorial Assistant \hfill 2007–2009  
 
 
 # Publications
 
 ## Journal Articles
 
-Huddell, A. M., Thapa, R., Marcillo, G. S., Abendroth, L. J., Ackroyd, V. J., Armstrong, S. D., ... & Mirsky, S. B. (2024). US cereal rye winter cover crop growth database. *Scientific Data*, 11(1), 200.
+Huddell, A. M., Thapa, R., Marcillo, G. S., Abendroth, L. J., Ackroyd, V. J., Armstrong, S. D., ... & Mirsky, S. B. 2024. US cereal rye winter cover crop growth database. *Scientific Data* 11(1), 200.  
 
-Malé, P. J. G., **Youngerman, E.**, Pierce, N. E., & Frederickson, M. E.  2020. Mating system, population	genetics, and phylogeography of the devil’s garden ant, *Myrmelachista schumanni*, in the	Peruvian Amazon. *Insectes Sociaux* 67(1), 113-125.
+Malé, P. J. G., **Youngerman, E. D.**, Pierce, N. E., & Frederickson, M. E. 2020. Mating system, population genetics, and phylogeography of the devil’s garden ant, *Myrmelachista schumanni*, in the Peruvian Amazon. *Insectes Sociaux* 67(1), 113–125.  
 
-Janda, M., Matos-Maraví, P., Borovanska, M., Zima, J., **Youngerman, E.**, & Pierce, N. E.  2016. Phylogeny and population genetic structure of the ant genus Acropyga (Hymenoptera:	Formicidae) in Papua New Guinea.  *Invertebrate Systematics* 30(1), 28-40.
+Janda, M., Matos-Maraví, P., Borovanska, M., Zima, J., **Youngerman, E.**, & Pierce, N. E. 2016. Phylogeny and population genetic structure of the ant genus *Acropyga* (Hymenoptera: Formicidae) in Papua New Guinea. *Invertebrate Systematics* 30(1), 28–40.  
 
-Cembrowski, A. R., Reurink, G., Arcila Hernandez, L. M., Sanders, J. G., **Youngerman, E.**, & Frederickson, M. E. 2015. Sporadic pollen consumption among tropical ants. *Insectes sociaux* 62, 379-382.
+Cembrowski, A. R., Reurink, G., Arcila Hernandez, L. M., Sanders, J. G., **Youngerman, E.**, & Frederickson, M. E. 2015. Sporadic pollen consumption among tropical ants. *Insectes Sociaux* 62, 379–382.  
 
-**Youngerman, E. D.**, Flammang, B. E., & Lauder, G. V. 2014. Locomotion of free-swimming ghost knifefish: anal fin kinematics during four behaviors. *Zoology* 117(5), 337-348.
+**Youngerman, E. D.**, Flammang, B. E., & Lauder, G. V. 2014. Locomotion of free-swimming ghost knifefish: anal fin kinematics during four behaviors. *Zoology* 117(5), 337–348.  
 
 
-# Oral Presentations
+# Oral Presentations and Posters
 
-**Youngerman, E.D.**, Pelzer, C., Loria, K., Mallory, E.B., Darby, H., Silva, E.M. & Ryan, M. 2024. Interrow	Mowing	in	Organic	No-Till	Planted	Dry	Bean. European Weed Research Society Physical and Cultural Weed Control Workshop, Wageningen, Netherlands.
+**Youngerman, E.**, Pelzer, C., Ryan, M., & Sosnoskie, L. 2025. Interrow mowing as a supplemental weed management tool in organic soybean. Cornell Organic Field Crops Conference.  
 
-**Youngerman, E.**, Pelzer, C., Ryan, M., & Loria, K. 2024. Interrow mowing as a supplemental weed management tool in organic soybean. Musgrave Research Farm Field Day, Cornell University.
+Ryan, M. R., Silva, E., Brockmueller, B., DiTommaso, A., McFadden, E. G., Menalled, U. D., Pelzer, C. J., Rowland, A. V., Sharifi, N. A., Sosnoskie, L., Wallace, S., **Youngerman, E.** 2025. Weed Between the Lines: Interrow mowing for weed control in organic reduced-tillage corn and soybean. European Weed Research Society Symposium. PS2- 41b  
 
-**Youngerman, E.**, Pelzer, C., Ryan, M., & Sosnoskie, L. 2023. Impact of timing of cereal rye cover crop termination on pests and diseases in no-till corn. Musgrave Research Farm Field Day, Cornell University.
+Ryan, M. R., Silva, E., Brockmueller, B., DiTommaso, A., McFadden, E. G., Menalled, U. D., Pelzer, C. J., Rowland, A. V., Sharifi, N. A., Sosnoskie, L., Wallace, S., **Youngerman, E.** 2025. Weed Between the Lines: Interrow mowing for weed control in organic reduced-tillage corn and soybean. Weed Science Society of America and Canadian Weed Science Society Joint Meeting. 65:296.  
 
-**Youngerman, E.** 2014. Caste or intercaste? An abundant, morphologically distinct worker of Myrmelachista schumanni in devil’s gardens in the Peruvian Amazon. TGIF Student Seminar
-Series, University of Utah.
+**Youngerman, E. D.**, Pelzer, C., Loria, K., Mallory, E. B., Darby, H., Silva, E. M., & Ryan, M. 2024. Interrow mowing in organic no-till planted dry bean. European Weed Research Society Physical and Cultural Weed Control Workshop, Wageningen, Netherlands.  
 
-Malé, Pierre-Jean and **Youngerman, E.** 2014. Evolution and ecology of ant-plant relationships:exploring devil’s gardens. Social Insects in the North East Regions (SINNERS 3), Philadelphia, PA.
+**Youngerman, E.**, Pelzer, C., Ryan, M., & Loria, K. 2024. Interrow mowing as a supplemental weed management tool in organic soybean. Musgrave Research Farm Field Day, Cornell University.  
 
-**Youngerman, E.** 2012. Ants of the mangroves and mid-lagoon islands of Madang Lagoon. Pacific Ants	Summit, Harvard University, Cambridge, MA.
+Djuric, N., Loria, K., Wayman, S., Pelzer, C. J., **Youngerman, E.**, Amsili, J. P., DiTommaso, A., & Ryan, M. R. 2024. Winter-killing cover crops facilitate organic no-till production of spring wheat. ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX.  
+
+McFadden, E., Loria, K., Pelzer, C. J., Wayman, S., **Youngerman, E.**, Brockmueller, B., Silva, E. M., & Ryan, M. R. 2024. Triticale management prior to organic no-till planted soybean. ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX.  
+
+**Youngerman, E.**, Pelzer, C., & Ryan, M. 2023. Impact of timing of cereal rye cover crop termination on pests and diseases in no-till corn. Musgrave Research Farm Field Day, Cornell University.  
+
+McFadden, E., Loria, K., Pelzer, C. J., **Youngerman, E.**, Brockmueller, B., Silva, E. M., & Ryan, M. R. 2023. No-till planting organic soybean into rolled-crimped triticale and triticale harvested for forage [Abstract]. ASA, CSSA, SSSA International Annual Meeting, St. Louis, MO.  
+
+Canisares, L. P., Miguez, F. E., Thapa, R., Mirsky, S. B., Ye, R., Poudel, P., Mulvaney, M. J., Upadhyaya, Y., Devkota, P., Pelzer, C. J., Ryan, M. R., Loria, K., **Youngerman, E.**, Basche, A., Ferreira de Almeida, T., Tomlinson, P. J., Presley, D. R., Roozeboom, K. L., Correira, A., Sadeghpour, A., Sener Guzel, G., Kula, C., Ruark, M. D., Waggoner, A., Wallace, J. M., Adam, J., Miller, J. O., Woodley, A., Fultz, L. M., Carrillo, P., Darby, H. M., Ruhl, L., Armstrong, S. D., Gautam, A., & Poffenbarger, H. 2022. Legume cover crops can reduce corn reliance on nitrogen fertilizer compared to cereal rye across multi-state field experiments. ASA, CSSA, SSSA International Annual Meeting, Baltimore, MD.  
+
+**Youngerman, E.** 2014. Caste or intercaste? An abundant, morphologically distinct worker of *Myrmelachista schumanni* in devil’s gardens in the Peruvian Amazon. TGIF Student Seminar Series, University of Utah.  
+
+Malé, P.-J., & **Youngerman, E.** 2014. Evolution and ecology of ant–plant relationships: exploring devil’s gardens. Social Insects in the Northeast Region (SINNERS 3), Philadelphia, PA.  
+
+**Youngerman, E.** 2012. Ants of the mangroves and mid-lagoon islands of Madang Lagoon. Pacific Ants Summit, Harvard University, Cambridge, MA.  
+
 
 # Teaching Experience
 
-*Graduate Teaching Assistant, University of Utah*	
+*Graduate Teaching Assistant, University of Utah*  
+Entomology \hfill 2015  
 
-Entomology \hfill 2015
-
-*Graduate Teaching Assistant, University of Toronto*	
-
-Adaptation and Evolution \hfill 2012
-
+*Graduate Teaching Assistant, University of Toronto*  
+Adaptation and Evolution \hfill 2012  

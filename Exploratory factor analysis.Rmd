@@ -1,0 +1,108 @@
+---
+title: "Introduction to Exploratory Factor Analysis"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Objectives*
+
+Provide and appided introduction to EFA
+
+A lot of terminology which makes things seem more complicated than it actually is. 
+EFA's are more subjective than not.
+
+An EFA are stas used to describe variability in observed, correleated variables using a smaller number of unobserved variables called *Factors*.
+
+Idea: Large number of *observed variables" reflect a smaller number of underlying latent variables that cannot be directly observed.
+
+FA is performed by examiing the pattern of correlation between the observed variables. 
+Observed varialbes that are highly correleated are likely to be influecned by the sme factors. 
+Mathematically, the observed variables are modeles as linear functions of the factors.  This is essentially a flip flopped version of a PCA.
+
+EFA - used the data when a researcher does not have a prior hypothese abot the number of structure of lateent variables. 
+
+Objective is to determine the number of factors infuencing a set of measured variables and assess the strength of the relationship between each facto and each observed data. 
+
+*EFA could be helpful for exploring what varaibles are most influentions for crop yield. For IMT we'll have emergence,  
+
+*Confirmatory Factor Analysis* 
+
+Used when a researcher has specific hypothese abot the number of factors and whihc observed vairables are related to which factos. 
+
+Involves testing wheater a hypotheised model is consistent with data
+
+*Back to EFA*
+
+Works on the correleations (or coveariance matrix of teh scaled variables)
+
+Correlations a typically Pearson correlatios
+
+EFA attemps to expain the maximum amount of common variantce in the observed varaibles using the fewst factros possible. The unique variance is ignored. 
+
+EFA only looks at common variance and not total variance
+
+Boxes represent variables that have been measured, circles represent estimations
+
+*Steps in EFA*
+
+Using data from an SPSS anxiety questionnaire
+
+Check sample size:
+
+  - Large data method
+    - Rules of thumb, Absolute minimum of 300 samples, 10-15 observations per vairiable
+    - function of commonality: lower levles will require increased sample size
+        KMO - measure of the proportion of variance that me common variance. 
+  SPSS survey has 23 qeustions measured on 2571 students
+    N >300, N/p >100
+
+
+
+Summary Stats
+
+ - variables are all 5-point liker scales and are reasonably symmetrical
+
+
+Correlation Matrix
+
+Ideally, observed variables will be correlated, but not too correlated!
+excldue variables with "lots" of correlaetion <0.3 or > 0.8 in ablsolute value
+  - Conduct a Bartlett's test
+
+Factor Extraction
+
+All methods calculate a set of orthogonal factors that can be used to try to repoduce R
+
+First eigenvectorsa dn eigenvalues of R of calculated
+
+Descripitive methods (assume sample is populations:
+  - Principal axis factoring
+  
+How many factor should we actually retain
+  Scree plot of eignvalues: look for elbow
+  Kaiser's criteria
+  
+  Communality, uniqueness, and complexity are characteristics of the observed variabels and mioght indicated taht some vairables do not belong in the EFA
+  
+
+
+Factor Rotation
+
+Used to improve interpretablilty
+They effectively rotate the axes to taht variables are loaded maximally on only one factor
+
+Factor Scores
+
+ - once factors have extract4ed and roated, the score coefficients can be estimated
+ score coeffecios are teh regression coefficients to predict the factoss from teh observed variabels. 
+  Methods include regression, bartlett and anderson rubin, with the regression being teh most 
+  - Researchers sometimes juest average teh varaibles a faoct loads on to. Will lose some explanaroty power doing thins. 
+  
+  Score cans be useed to explore patterns in data
+  
+  EFA and CFA likely shouldn't be used outside of Social Sciences
+  
+  
